@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>&lt;key&gt;CFBundleIcons&lt;/key&gt;
+&lt;dict&gt;
+    &lt;key&gt;CFBundlePrimaryIcon&lt;/key&gt;
+    &lt;dict&gt;
+        &lt;key&gt;CFBundleIconFiles&lt;/key&gt;
+        &lt;array&gt;
+            &lt;string&gt;AppIcon&lt;/string&gt;
+        &lt;/array&gt;
+    &lt;/dict&gt;
+&lt;/dict&gt;
+</key>
+	<string></string>
+	<key>UIPrerenderedIcon</key>
+	<false/>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string></string>
+	<key>&lt;key&gt;NSSpeechRecognitionUsageDescription&lt;/key&gt;
+&lt;string&gt;需要使用语音识别功能来处理录音内容。&lt;/string&gt;
+</key>
+	<string></string>
+	<key>&lt;key&gt;UIApplicationSceneManifest&lt;/key&gt;
+&lt;dict&gt;
+    &lt;key&gt;UISceneConfigurations&lt;/key&gt;
+    &lt;dict&gt;
+        &lt;key&gt;UIWindowSceneSessionRoleApplication&lt;/key&gt;
+        &lt;array&gt;
+            &lt;dict&gt;
+                &lt;key&gt;UISceneConfigurationName&lt;/key&gt;
+                &lt;string&gt;Default Configuration&lt;/string&gt;
+                &lt;key&gt;UISceneDelegateClassName&lt;/key&gt;
+                &lt;string&gt;$(PRODUCT_MODULE_NAME).SceneDelegate&lt;/string&gt;
+            &lt;/dict&gt;
+        &lt;/array&gt;
+    &lt;/dict&gt;
+&lt;/dict&gt;
+</key>
+	<string></string>
+	<key>kTCCServiceMediaLibrary</key>
+	<string></string>
+</dict>
+</plist>
